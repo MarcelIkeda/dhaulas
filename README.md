@@ -1,2 +1,0 @@
-# dhaulas
-utilizado para estudar
